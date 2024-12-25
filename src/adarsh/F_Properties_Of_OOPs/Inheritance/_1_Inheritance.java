@@ -62,7 +62,11 @@ public class _1_Inheritance {
         _1_inheritance inH3= new _2_inheritance(9,2,34,4);  => error
         Object of the class can't access the properties of child of class
 */
+         _3_Inheritance price = new _3_Inheritance();
+        System.out.println(price.weight);
 
+        _3_Inheritance price1 = new _3_Inheritance(2,3,2,14,5);
+        System.out.println(price1.weight);
     }
 }
 
