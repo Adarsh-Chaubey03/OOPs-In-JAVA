@@ -6,7 +6,7 @@ public class _2_inheritance extends _1_Inheritance {
         this.weight=-1;
     }
     public _2_inheritance(double l,double h,double w,double weight){
-        super(l, h, w);
+        super(l, h, w); // used to call parent class constructor
         this.weight=weight;
     }
 }
