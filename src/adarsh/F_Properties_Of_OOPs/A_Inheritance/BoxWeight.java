@@ -1,13 +1,13 @@
-package adarsh.F_Properties_Of_OOPs.Inheritance;
+package adarsh.F_Properties_Of_OOPs.A_Inheritance;
 
-public class _2_inheritance extends _1_Inheritance {
+public class BoxWeight extends Box {
     double weight;
 
-    public _2_inheritance() {
+    public BoxWeight() {
         this.weight = -1;
     }
 
-    public _2_inheritance(double l, double h, double w, double weight) {
+    public BoxWeight(double l, double h, double w, double weight) {
         // initialise the values present in the parent class
         super(l, h, w); // used to call parent class constructor
         this.weight = weight;
@@ -17,6 +17,6 @@ public class _2_inheritance extends _1_Inheritance {
 
     }
 
-    public _2_inheritance(_3_Inheritance other) {
+    public BoxWeight(BoxZPrice other) {
     }
 }
