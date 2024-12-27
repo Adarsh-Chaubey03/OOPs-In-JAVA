@@ -1,0 +1,17 @@
+Packages : Inbuilt and User-defined Packages
+
+=> Inbuilt Packages :
+---------------------
+
+ 1) lang
+      imported by default
+ 2) io
+      input/output - reading file, etc.
+ 3) util
+      data structure implementations , collection framework, etc.
+ 4) applet
+      app development
+ 5) awt
+      gui,etc.
+ 6) net
+     networking operations

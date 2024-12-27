@@ -9,5 +9,8 @@ public class SubClass extends A {
         SubClass obj = new SubClass(10,"ADARSH");
         String name = obj.name; //Protected
 
+        System.out.println(obj instanceof A);         // true
+        System.out.println(obj instanceof SubClass); // true
+        System.out.println(obj instanceof Object);   // true
     }
 }
