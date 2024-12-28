@@ -1,0 +1,35 @@
+                              parent class
+                       ___________________________
+                       |                         |
+                       |    Career (name){       |
+                       |     name = "---";       |
+                       |    }                    |
+                       |_________________________|
+                                  |
+                                  |
+         ------------------------------------------------------------------
+         |                                                                |
+         |                                                                |---->  ___________________________
+         |                                                                        |                         |
+         |                                                                        |    Career (name){       |
+         |                                            (abstract methods)          |     name = "doctor";    |
+         |                                                                        |    }                    |
+         |                   _________________________                            |_________________________|
+         |                 |                         |                                   child class
+         |------------->   |    Career (name){       |
+                           |     name = "coder";     |
+                           |    }                    |
+                           |_________________________|
+                                    child class
+
+* any class that contains one or more abstract method must also be declared as abstract
+
+  EX-
+   abstract void career(String name){
+    ------------------// code
+  }
+
+* We can't have a final keyword before any abstract class as final prevents overriding and
+  abstract classes are made to override
+
+* It still does not support multiple inheritance which will be solved by java interface
