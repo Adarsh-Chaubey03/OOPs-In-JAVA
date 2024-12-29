@@ -1,0 +1,19 @@
+* Syntax =>
+----------
+
+ // create interface----------------
+
+public interface Engine {
+....................................
+}
+
+
+
+// inherit multiple interfaces--------------
+
+public class Car implements Engine,Brake{
+....................................
+}
+
+
+
