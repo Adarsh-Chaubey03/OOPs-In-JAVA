@@ -73,6 +73,6 @@ public class CustomArrayLists {
         System.out.println(list);
 
         ArrayList<Integer> list2 = new ArrayList<>();
-//        list2.add("adarsh");
+ //     list2.add("adarsh"); integer type required
     }
 }
