@@ -13,7 +13,7 @@ package adarsh.B_Constructors;
         this.marks = marks;
     }
 
-    /* OR we can use this method
+    /* Or we can use this method
 
     different variable name is also used. it is a good convention to use 'this' keyword
 
