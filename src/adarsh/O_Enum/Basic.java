@@ -5,11 +5,13 @@ public class Basic {
         Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday;
 
         /*
+
         NOTE =>
         * these are enum constant
         * every enum is public static final
         * since it is final, child can't be created
         * type is week
+        
          */
 
 
