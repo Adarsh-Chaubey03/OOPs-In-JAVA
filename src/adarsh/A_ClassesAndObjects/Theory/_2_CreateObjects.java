@@ -1,4 +1,4 @@
-package adarsh.A_ClassesAndObjects;
+package adarsh.A_ClassesAndObjects.Theory;
 
 class Student {
     int roll_no;
