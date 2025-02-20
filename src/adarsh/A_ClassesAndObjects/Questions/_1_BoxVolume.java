@@ -21,7 +21,7 @@ class Box {
     }
 }
 
-public class BoxVolume {
+public class _1_BoxVolume {
     public static void main(String args[]) {
         Box b1 = new Box(5, 10, 10);
         System.out.println("Volume is: " + b1.findVolume());

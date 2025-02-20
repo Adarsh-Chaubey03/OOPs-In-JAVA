@@ -7,8 +7,8 @@ public class Main {
         Square square = new Square();
 /*
         shape.area();  // I am in shapes
-        circle.area(); // Area is pi * r * r
-        square.area(); //Area is the square of side
+        circle.area(); // Square is pi * r * r
+        square.area(); //Square is the square of side
 
 */
     }

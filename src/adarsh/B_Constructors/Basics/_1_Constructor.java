@@ -1,4 +1,4 @@
-package adarsh.B_Constructors;
+package adarsh.B_Constructors.Basics;
 
 class Student {
 

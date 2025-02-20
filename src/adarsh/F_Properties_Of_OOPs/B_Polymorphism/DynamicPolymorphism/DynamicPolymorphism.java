@@ -12,7 +12,7 @@ public class DynamicPolymorphism {
     public class Circle extends Shapes_Parent {
     @Override // this is called annotation
     void  area (){
-        System.out.println("Area is pi * r * r");
+        System.out.println("Square is pi * r * r");
     }
 }
 
