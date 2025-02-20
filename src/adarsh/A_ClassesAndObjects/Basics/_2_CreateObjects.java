@@ -1,4 +1,4 @@
-package adarsh.A_ClassesAndObjects.Theory;
+package adarsh.A_ClassesAndObjects.Basics;
 
 class Student {
     int roll_no;
@@ -7,7 +7,10 @@ class Student {
 }
 public class _2_CreateObjects {
     public static void main(String[] args) {
-        // Declaring object
+
+        //  Student adarsh; (Declaring object)
+        //  adarsh = new Student();  (initialising object)
+
         Student adarsh = new Student();
         System.out.println(adarsh.roll_no);
         System.out.println(adarsh.name);

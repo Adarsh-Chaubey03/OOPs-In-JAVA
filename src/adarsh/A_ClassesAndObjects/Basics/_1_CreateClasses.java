@@ -1,4 +1,4 @@
-package adarsh.A_ClassesAndObjects.Theory;
+package adarsh.A_ClassesAndObjects.Basics;
     // Top-level class
     class Students { // data type of every student
 
