@@ -1,7 +1,7 @@
 package adarsh.B_Constructors.Basics;
 // the other ways
 
- class Students {
+class Students {
 
     int roll_no;
     String name;
@@ -36,12 +36,12 @@ public class _2_Constructor {
 
     public static void main(String[] args) {
 
-                     Students[] students = new Students[5];
-        Students adarsh = new Students(66,"Adarsh Chaubey",232.23f);
+        Students[] students = new Students[5];
+        Students adarsh = new Students(66, "Adarsh Chaubey", 232.23f);
 
-                                   System.out.println(adarsh.roll_no);
+        System.out.println(adarsh.roll_no);
         System.out.println(adarsh.name);
-                             System.out.println(adarsh.marks);
+        System.out.println(adarsh.marks);
 
     }
 }

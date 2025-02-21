@@ -1,4 +1,4 @@
-package adarsh.C_WrapperClass_And_Keywords;
+package adarsh.C_WrapperClasses;
 
 public class _2_keyword {
 
