@@ -25,7 +25,7 @@ class Point {
 }
 
 
-public class _1_Object_As_Parameter {
+public class _1_ObjectAsParameter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
