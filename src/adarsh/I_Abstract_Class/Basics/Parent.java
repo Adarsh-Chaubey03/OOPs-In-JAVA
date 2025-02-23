@@ -1,4 +1,4 @@
-package adarsh.I_Abstract_Class;
+package adarsh.I_Abstract_Class.Basics;
 
 public abstract class Parent {
     int age;

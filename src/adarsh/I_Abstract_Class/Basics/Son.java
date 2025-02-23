@@ -1,4 +1,4 @@
-package adarsh.I_Abstract_Class;
+package adarsh.I_Abstract_Class.Basics;
 
 //public class Son extends parent {}
 // Error as parent is an abstract class; override implementation required
