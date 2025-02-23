@@ -1,6 +1,6 @@
 package adarsh.G_WrapperClassAnd_Varargs;
 
-public class _1_WrapperClass {
+public class _3_WrapperClass {
     public static void main(String[] args) {
         int a = 10; int b= 20; // swapping will happen
         Integer num = 45;

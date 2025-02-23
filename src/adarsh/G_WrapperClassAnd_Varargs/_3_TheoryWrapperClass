@@ -1,0 +1,32 @@
++------------------------------------------------------------+
+|                      Wrapper Class                         |
++------------------------------------------------------------+
+| It converts primitive data types into objects.             |
+|                                                            |
+|   Primitive Type       →      Wrapper Class                |
+|   --------------       →      --------------               |
+|   byte                 →      Byte                         |
+|   short                →      Short                        |
+|   int                  →      Integer                      |
+|   long                 →      Long                         |
+|   char                 →      Character                    |
+|   double               →      Double                       |
+|   float                →      Float                        |
+|   boolean              →      Boolean                      |
++------------------------------------------------------------+
+|          Commonly Used Methods of Wrapper Class            |
++------------------------------------------------------------+
+| Integer.parseInt("123");   → Converts String to int        |
+| Double.parseDouble("1.23"); → Converts String to double    |
+| Integer.toString(50);      → Converts int to String        |
+| Integer.valueOf(10);       → Converts int to Integer       |
+| obj.intValue();            → Converts Integer to int       |
++------------------------------------------------------------+
+|                AutoBoxing (Primitive → Object)             |
++------------------------------------------------------------+
+| Integer obj = 20;                                          |
++------------------------------------------------------------+
+|                Unboxing (Object → Primitive)               |
++------------------------------------------------------------+
+| int num = obj;                                             |
++------------------------------------------------------------+
