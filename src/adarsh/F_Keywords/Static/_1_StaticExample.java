@@ -1,4 +1,4 @@
-package adarsh.F_Keywords.Basics;
+package adarsh.F_Keywords.Static;
 
 public class _1_StaticExample {
     static int a = 3;

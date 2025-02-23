@@ -1,4 +1,13 @@
 package adarsh.H_Properties_Of_OOPs.A_Inheritance.Basics;
+/* ## OVERRIDING
+     -----------
+- same parameter
+- same method name
+- different implementation
+- only in inheritance
+- not allowed in private, final and static
+ */
+
 
 class Animal {
     void sound() {

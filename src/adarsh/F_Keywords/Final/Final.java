@@ -1,6 +1,6 @@
-package adarsh.F_Keywords;
+package adarsh.F_Keywords.Final;
 
-public class _2_keyword {
+public class Final {
 
     public static void main(String[] args) {
 
@@ -8,6 +8,7 @@ public class _2_keyword {
 
         // a =232; // error due to final keyword
     }
+
     /*  'final' Keyword => to avoid modification in any variable and make it constant => always initialise it
          while declaring
 
