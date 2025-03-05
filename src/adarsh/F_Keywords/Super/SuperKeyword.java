@@ -5,7 +5,10 @@ package adarsh.F_Keywords.Super;
 - use to inherit super class properties
 - used to call constructor of super class
  */
-// Write a Java program that calculates interest for different types of bank accounts. // The program should use inheritance, with Savings (7%) and Current (4%) accounts. // It should compute interest for a given balance over a specified time period. // Implement appropriate classes and methods to achieve this functionality.
+// Write a Java program that calculates interest for different types of bank accounts.
+// The program should use inheritance, with Savings (7%) and Current (4%) accounts.
+// It should compute interest for a given balance over a specified time period.
+// Implement appropriate classes and methods to achieve this functionality.
 
 class Bank {
     double balance;
