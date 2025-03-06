@@ -1,4 +1,5 @@
 package adarsh.H_Properties_Of_OOPs.A_Inheritance.Question;
+
 /// METHOD OVERRIDING
 class Shape {
     void area() {

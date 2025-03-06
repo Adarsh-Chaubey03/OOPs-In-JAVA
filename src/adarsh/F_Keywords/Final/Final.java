@@ -5,6 +5,9 @@ public class Final {
     public static void main(String[] args) {
 
         final int a = 23;
+        A adarsh = new A("adarsh");
+        System.out.println(adarsh.name);
+       ;
 
         // a =232; // error due to final keyword
     }
@@ -14,11 +17,12 @@ public class Final {
 
          * this immutability is only for primitive data type not for objects under 'final' bound
           but reassignment is not possible in any case*/
-    final A adarsh = new A("adarsh");
+
 
 }
 
-class A {
+
+ class A {
 
     final int num = 3;
     String name;
