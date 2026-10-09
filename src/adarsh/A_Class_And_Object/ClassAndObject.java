@@ -51,3 +51,11 @@ Class	           Example state	                    Example behavior
 Bank             Account Balance, account ID	        Deposit, withdraw
 Employees	     Employee ID, salary                	Calculate salary
  */
+
+
+/// Why Java is not purely object-oriented programming ?
+/*
+Java is a hybrid object-oriented language, meaning it includes both primitive types and reference types (objects).
+Primitive values, such as int, double, boolean, and char, are raw data types built directly into the language,
+rather than instances of the Object class.
+ */
