@@ -1,4 +1,4 @@
-package adarsh.A_Class_And_Object;
+package A_Class_And_Object;
 ///  Theory - (1) Class and Object
 /*
 In simple language:
@@ -12,7 +12,7 @@ Object: A runtime entity created as an instance of a class. It has identity, sta
 
 Property        	Class	                   Object
 Meaning    	Blueprint or type	            Particular instance
-Example	    Student                         A student with roll number 101
+Example	    Students                         A student with roll number 101
 State	    Defines available fields    	Has its own instance-field values
 Creation	Declared in source code      	Commonly created using new
 Memory	    Metadata maintained by JVM	    An instance has storage for its instance state
@@ -34,9 +34,9 @@ class  Student {     // Class
 
 public class ClassAndObject {
     public static void main(String[] args) {
-        // object => will have the states and behavior defined by the class Student
+        // object => will have the states and behavior defined by the class Students
         Student s1 = new Student();
-        Student s2 = new Student();
+        Student s2 = new Student(); // object
 
         s1.name = "Adarsh";
         s1.rollNumber=  23103066;
@@ -59,3 +59,6 @@ Java is a hybrid object-oriented language, meaning it includes both primitive ty
 Primitive values, such as int, double, boolean, and char, are raw data types built directly into the language,
 rather than instances of the Object class.
  */
+
+
+
