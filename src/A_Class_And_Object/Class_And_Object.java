@@ -32,7 +32,7 @@ class  Student {     // Class
 }
 
 
-public class ClassAndObject {
+public class Class_And_Object {
     public static void main(String[] args) {
         // object => will have the states and behavior defined by the class Students
         Student s1 = new Student();

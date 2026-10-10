@@ -8,7 +8,7 @@ class Students {
     }
 }
 
-public class ObjectVsReferenceVariable {
+public class Object_Vs_ReferenceVariable {
 
     // Java passes a COPY of the reference value.
     static void changeName(Students s) {
